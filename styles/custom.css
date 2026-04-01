@@ -103,6 +103,14 @@ ol li {
   margin: 25px 0;
 }
 
+.case-image {
+  border-radius: 5%;
+  width: 800px;
+  height: 400px;
+  margin: 25px 0;
+}
+
+
 .hero-links a {
   display: inline-block;
   font-size: 14px;
